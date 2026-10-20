@@ -10,8 +10,8 @@ export default function DetailsScreen() {
         style={styles.image}
       />
 
-      <Text style={styles.text}>Name: Thathsarani Kotinkaduwa</Text>
-      <Text style={styles.text}>Student ID: PS/2022/234</Text>
+      <Text style={styles.text}>Name: Enter your name here</Text>
+      <Text style={styles.text}>Student ID: Enter your ID here</Text>
       <Text style={styles.text}>Course: Mobile Application Development</Text>
     </View>
   );
